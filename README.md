@@ -22,7 +22,7 @@
 - 💼 I'm currently working on: **💻 Developing a Point of Sales Web-app for a restaurant.**
 - 🌱 I'm currently learning: **📚 Exploring Typescript and Backend technologies like Express.js and MongoDB**
 - 📖 I'm currently studying: **📖 BSc In Computer Science in Athens Tech College (Stage 2)**
-- ⚡ Fun fact: **In my free time i enjoy coding and gaming **
+- ⚡ Fun fact: **In my free time i enjoy coding and gaming**
 
  **<h3 align="left">🛠 Main Stack</h3>**
 
